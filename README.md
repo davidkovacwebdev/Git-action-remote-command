@@ -1,4 +1,4 @@
-# Git workflow which remotelly accesses a server and executes commands
+# Git workflow which remotely accesses a server and executes commands
 ## Prerequisites:
 - Git repository and account
 - Server with SSH keys and access allowed (The code and tutorial is specifically made for Digital Ocean's droplet. Some steps may vary depending on the exact host you use)
